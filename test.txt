@@ -1,0 +1,1 @@
+Hi there! This is another text file. Just making sure GIT is working.
